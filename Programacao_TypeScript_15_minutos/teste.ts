@@ -1,5 +1,5 @@
 import funcao from './funcoes';   // Importando a(s) função(ões) do arquivo funcoes.ts, para serem
-// 'enviadas' e atribuídas ao objeto chamado funcao, para assim ser usado aqui, neste arquivo de teste.ts.
+// 'enviadas' e atribuídas ao objeto chamado funcao, para assim ser usado aqui, neste arquivo de teste.ts. .
 
 /*  
             Referência:   https://www.youtube.com/watch?v=g0hkeyMb45U
